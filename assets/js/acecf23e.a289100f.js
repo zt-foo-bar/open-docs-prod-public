@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspidermemos_open_docs=self.webpackChunkspidermemos_open_docs||[]).push([["3220"],{1912(e){e.exports=JSON.parse('{"blogBasePath":"/changelog","blogTitle":"Changelog","authorsListPath":"/changelog/authors"}')}}]);

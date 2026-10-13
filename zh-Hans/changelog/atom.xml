@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://open.spidermemos.com/zh-Hans/changelog</id>
+    <title>织个网 开放平台 Blog</title>
+    <updated>2026-10-13T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://open.spidermemos.com/zh-Hans/changelog"/>
+    <subtitle>织个网 开放平台 Blog</subtitle>
+    <icon>https://open.spidermemos.com/zh-Hans/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[开放平台文档站上线]]></title>
+        <id>https://open.spidermemos.com/zh-Hans/changelog/2026/10/13/site-launch</id>
+        <link href="https://open.spidermemos.com/zh-Hans/changelog/2026/10/13/site-launch"/>
+        <updated>2026-10-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[开放平台文档站首次发布：]]></summary>
+        <content type="html"><![CDATA[<p>开放平台文档站首次发布：</p>
+<!-- -->
+<ul>
+<li class=""><strong>开发指南</strong> — 接入流程与开放能力说明。</li>
+<li class=""><strong>API 参考</strong> — 由 <code>openapi/open-api.json</code>（构建期从后端同步的事实源）自动生成，覆盖 Foobar 等首批接口。</li>
+<li class=""><strong>变更日志</strong> — 本页面。后续契约的破坏性 / 非破坏性变更都会在这里记录；破坏性变更清单由 <code>scripts/check-breaking.mjs</code> 的契约比对产出。</li>
+</ul>]]></content>
+        <author>
+            <name>织个网</name>
+        </author>
+        <category label="发布" term="发布"/>
+    </entry>
+</feed>

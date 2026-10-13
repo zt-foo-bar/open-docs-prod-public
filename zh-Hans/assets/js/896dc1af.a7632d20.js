@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspidermemos_open_docs=self.webpackChunkspidermemos_open_docs||[]).push([["8822"],{88736(e){e.exports=JSON.parse('{"tags":[{"label":"\u53D1\u5E03","permalink":"/zh-Hans/changelog/tags/release","description":"\u7248\u672C\u53D1\u5E03\u4E0E\u529F\u80FD\u4E0A\u7EBF","count":1}]}')}}]);

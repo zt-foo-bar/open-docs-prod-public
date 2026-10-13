@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>織個網開放平台 Blog</title>
+        <link>https://open.spidermemos.com/zh-Hant/changelog</link>
+        <description>織個網開放平台 Blog</description>
+        <lastBuildDate>Tue, 13 Oct 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hant</language>
+        <item>
+            <title><![CDATA[開放平臺文檔站上線]]></title>
+            <link>https://open.spidermemos.com/zh-Hant/changelog/2026/10/13/site-launch</link>
+            <guid>https://open.spidermemos.com/zh-Hant/changelog/2026/10/13/site-launch</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[開放平臺文檔站首次發布：]]></description>
+            <content:encoded><![CDATA[<p>開放平臺文檔站首次發布：</p>
+<!-- -->
+<ul>
+<li class=""><strong>開發指南</strong> — 接入流程與開放能力說明。</li>
+<li class=""><strong>API 參考</strong> — 由 <code>openapi/open-api.json</code>（建置期從後端同步的事實來源）自動生成，涵蓋 Foobar 等首批介面。</li>
+<li class=""><strong>變更日誌</strong> — 本頁面。後續契約的破壞性 / 非破壞性變更都會記錄在這裡；破壞性變更清單由 <code>scripts/check-breaking.mjs</code> 的契約比對產出。</li>
+</ul>]]></content:encoded>
+            <category>發佈</category>
+        </item>
+    </channel>
+</rss>

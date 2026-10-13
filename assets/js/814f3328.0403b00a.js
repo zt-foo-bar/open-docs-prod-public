@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspidermemos_open_docs=self.webpackChunkspidermemos_open_docs||[]).push([["1833"],{55513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Open Platform Docs Site Launch","permalink":"/changelog/2026/10/13/site-launch","unlisted":false,"date":"2026-10-13T00:00:00.000Z"}]}')}}]);

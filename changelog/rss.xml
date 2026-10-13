@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Spider Memos Open Platform Blog</title>
+        <link>https://open.spidermemos.com/changelog</link>
+        <description>Spider Memos Open Platform Blog</description>
+        <lastBuildDate>Tue, 13 Oct 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Open Platform Docs Site Launch]]></title>
+            <link>https://open.spidermemos.com/changelog/2026/10/13/site-launch</link>
+            <guid>https://open.spidermemos.com/changelog/2026/10/13/site-launch</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The open platform documentation site is now live:]]></description>
+            <content:encoded><![CDATA[<p>The open platform documentation site is now live:</p>
+<!-- -->
+<ul>
+<li class=""><strong>Guides</strong> — onboarding flow and available open capabilities.</li>
+<li class=""><strong>API Reference</strong> — generated from <code>openapi/open-api.json</code>, the source of truth synced from the backend at build time, covering the first batch of endpoints such as Foobar.</li>
+<li class=""><strong>Changelog</strong> — this page. Breaking and non-breaking changes to the public contract are recorded here; the breaking-change list comes from the contract diff in <code>scripts/check-breaking.mjs</code>.</li>
+</ul>]]></content:encoded>
+            <category>Release</category>
+        </item>
+    </channel>
+</rss>

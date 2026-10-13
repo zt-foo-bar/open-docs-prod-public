@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspidermemos_open_docs=self.webpackChunkspidermemos_open_docs||[]).push([["7749"],{62925(e){e.exports=JSON.parse('{"tags":[{"label":"Release","permalink":"/changelog/tags/release","description":"Version releases and feature launches","count":1}]}')}}]);

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://open.spidermemos.com/changelog</id>
+    <title>Spider Memos Open Platform Blog</title>
+    <updated>2026-10-13T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://open.spidermemos.com/changelog"/>
+    <subtitle>Spider Memos Open Platform Blog</subtitle>
+    <icon>https://open.spidermemos.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Open Platform Docs Site Launch]]></title>
+        <id>https://open.spidermemos.com/changelog/2026/10/13/site-launch</id>
+        <link href="https://open.spidermemos.com/changelog/2026/10/13/site-launch"/>
+        <updated>2026-10-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The open platform documentation site is now live:]]></summary>
+        <content type="html"><![CDATA[<p>The open platform documentation site is now live:</p>
+<!-- -->
+<ul>
+<li class=""><strong>Guides</strong> — onboarding flow and available open capabilities.</li>
+<li class=""><strong>API Reference</strong> — generated from <code>openapi/open-api.json</code>, the source of truth synced from the backend at build time, covering the first batch of endpoints such as Foobar.</li>
+<li class=""><strong>Changelog</strong> — this page. Breaking and non-breaking changes to the public contract are recorded here; the breaking-change list comes from the contract diff in <code>scripts/check-breaking.mjs</code>.</li>
+</ul>]]></content>
+        <author>
+            <name>Spider Memos</name>
+        </author>
+        <category label="Release" term="Release"/>
+    </entry>
+</feed>

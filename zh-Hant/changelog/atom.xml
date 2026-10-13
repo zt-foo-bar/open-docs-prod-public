@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://open.spidermemos.com/zh-Hant/changelog</id>
+    <title>織個網開放平台 Blog</title>
+    <updated>2026-10-13T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://open.spidermemos.com/zh-Hant/changelog"/>
+    <subtitle>織個網開放平台 Blog</subtitle>
+    <icon>https://open.spidermemos.com/zh-Hant/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[開放平臺文檔站上線]]></title>
+        <id>https://open.spidermemos.com/zh-Hant/changelog/2026/10/13/site-launch</id>
+        <link href="https://open.spidermemos.com/zh-Hant/changelog/2026/10/13/site-launch"/>
+        <updated>2026-10-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[開放平臺文檔站首次發布：]]></summary>
+        <content type="html"><![CDATA[<p>開放平臺文檔站首次發布：</p>
+<!-- -->
+<ul>
+<li class=""><strong>開發指南</strong> — 接入流程與開放能力說明。</li>
+<li class=""><strong>API 參考</strong> — 由 <code>openapi/open-api.json</code>（建置期從後端同步的事實來源）自動生成，涵蓋 Foobar 等首批介面。</li>
+<li class=""><strong>變更日誌</strong> — 本頁面。後續契約的破壞性 / 非破壞性變更都會記錄在這裡；破壞性變更清單由 <code>scripts/check-breaking.mjs</code> 的契約比對產出。</li>
+</ul>]]></content>
+        <author>
+            <name>織個網</name>
+        </author>
+        <category label="發佈" term="發佈"/>
+    </entry>
+</feed>

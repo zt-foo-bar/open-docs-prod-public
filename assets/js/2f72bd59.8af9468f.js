@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspidermemos_open_docs=self.webpackChunkspidermemos_open_docs||[]).push([["209"],{79990(e){e.exports=JSON.parse('{"metadata":{"permalink":"/changelog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Breaking and non-breaking changes of the Spider Memos open platform public APIs.","blogTitle":"Changelog"}}')}}]);
